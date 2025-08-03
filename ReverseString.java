@@ -12,7 +12,6 @@ public class ReverseString {
             right--;
         }
     }
-
     public static void main(String[] args) {
        // char[] s = {'H', 'E', 'L', 'L', 'O'};
         char[] s = {'M', 'R', 'U', 'N', 'A', 'L', 'I'};
