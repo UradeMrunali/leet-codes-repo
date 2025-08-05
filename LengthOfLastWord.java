@@ -4,7 +4,6 @@ public class LengthOfLastWord {
         int lastSpaceIndex = s.lastIndexOf( ' ');
         return s.length() - lastSpaceIndex - 1 ;
     }
-
     public static void main(String[] args) {
        String input = "Checking length of last word  " ;
        int result= lengthOfLastWord(input);
