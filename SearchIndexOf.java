@@ -10,7 +10,6 @@ public class SearchIndexOf {
         if(indexOf != -1){
             System.out.println("Index of the "+ target + " is: " + indexOf);
         }else {
-
             System.out.println("No such number found");
         }
     }
