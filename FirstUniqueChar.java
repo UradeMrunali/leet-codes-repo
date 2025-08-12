@@ -1,9 +1,7 @@
 import java.util.HashMap;
 
 public class FirstUniqueChar {
-
     public static int firstUniqChar(String s){
-
         HashMap<Character , Integer> count = new HashMap<>();
 
         for (char ch : s.toCharArray()){
