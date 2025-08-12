@@ -24,6 +24,5 @@ public class FirstUniqueChar {
         System.out.println("First unique index in " + s1 + " " + firstUniqChar(s1));
         System.out.println("First unique index in " + s2 + " " + firstUniqChar(s2));
         System.out.println("First unique index in " + s3 + " " + firstUniqChar(s3));
-
     }
 }
