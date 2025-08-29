@@ -15,7 +15,6 @@ public class FirstUniqueChar {
         }
         return -1;
     }
-
     public static void main(String[] args) {
         String s1 = "Mrunali";
         String s2 = "LoveLeetCode";
